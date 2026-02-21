@@ -1,6 +1,13 @@
+# Purpose
+
+I wanted to install Google's new Antigravity so I could try out the new Gemini 3.1 PRO, but it requires me to log into my google account on the same machine as the Antigravity install. This is a deal breaker for me becuase I keep a secutity gap between my machine that runs AI dev stuffs and my machine that logs into my important accounts (and so should you). So I wrote this utility to get around the issue. 
+
+Follw the instructions below and then run the Antigravity install. Copy the URL and get it to your trusted machine and open that URL and log in. Then take the auth URL to localhost that log in returns and open that back on the Anitgravity machine and Antigravity will finish the install. 
+
 # TinyURLCatcher
 
 A lightweight Windows utility that registers as an HTTP/HTTPS URL handler. When a URL is opened from a non-browser app (Slack, email, terminal, etc.), TinyURLCatcher displays it in a simple window so you can inspect and copy it.
+
 
 ## Requirements
 
