@@ -22,7 +22,7 @@ A lightweight Windows utility that registers as an HTTP/HTTPS URL handler. When 
    python register.py
    ```
 
-2. Open **Windows Settings > Default Apps** and set **TinyURLCatcher** as your web browser.
+2. Open **Windows Settings > Default Apps**, "Set a default for a file type or link type" > HTTPS,  and set Python as the default app.
 
 ## Usage
 
